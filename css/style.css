@@ -74,3 +74,24 @@ img{
 #b3-bg-color{
     background-color: rgba(255, 183, 183, 0.904);
 }
+.third-sec{
+    width: 800px;
+    padding-top: 60px;
+    margin-left: 9%;
+}
+.third-sec img{
+    width: 100%;
+}
+.third-sec-1{
+    margin-left: 5%;
+    margin-right: 7%;
+    margin-top: 75px;
+    padding-top: 35px;
+}
+.third-sec-1 h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.third-sec-1 p{
+    margin-top: -30px;
+}
