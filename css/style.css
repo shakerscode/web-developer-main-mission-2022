@@ -74,10 +74,12 @@ img{
 #b3-bg-color{
     background-color: rgba(255, 183, 183, 0.904);
 }
+
 .third-sec{
     width: 800px;
     padding-top: 60px;
     margin-left: 9%;
+    /* background-image: url(images/shapes/shape-1.png); */
 }
 .third-sec img{
     width: 100%;
@@ -94,4 +96,19 @@ img{
 }
 .third-sec-1 p{
     margin-top: -30px;
+}
+#third-sec-id{
+    margin-left: 9%;
+}
+#third-sec-id-1{
+    margin-right: 9%;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    margin-top: 60px;
+    text-align: center;
+    padding: 15px 0px 10px 0px;
+    color: white;
+    background-color: rgb(11, 6, 39);
 }
